@@ -13,4 +13,4 @@ A visualisation of the [Collatz Conjecture](https://en.wikipedia.org/wiki/Collat
 ![image of the visualisation](./collatz_16ki.svg)
 
 
-* these are not technically trees because of the loop 1-2-4-1
+\* these are not technically trees because of the loop 1-2-4-1
