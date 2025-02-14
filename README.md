@@ -1,12 +1,10 @@
 # Collatz Visualisation
 
-A visualisation of the [Collatz Conjecture](https://de.wikipedia.org/wiki/Collatz_Conjecture)
+A visualisation of the [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_Conjecture)
 
 - Numbers are capped at 8192
 - All Numbers up to and including 26 are included in this tree*
 ![image of the visualisation](./collatz_8ki.svg)
-
-
 
 
 - Numbers are capped at 16384
@@ -15,4 +13,4 @@ A visualisation of the [Collatz Conjecture](https://de.wikipedia.org/wiki/Collat
 ![image of the visualisation](./collatz_16ki.svg)
 
 
-** these are not technically trees because of the loop 1-2-4-1
+* these are not technically trees because of the loop 1-2-4-1
